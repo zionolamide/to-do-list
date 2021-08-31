@@ -1,0 +1,33 @@
+.footer {
+    left: 0;
+    bottom: 0;
+    padding: 20px;
+    width: 100%;
+    background-image: linear-gradient(to right, #b9b9ee 0%, #7ab6e0 51%, #b9b9ee 100%);
+    color: white;
+}
+
+a {
+    color: midnightblue;
+    text-decoration: none;
+}
+
+.social_media {
+    float: right;
+    display: flex;
+    margin-top: -34px;
+    margin-right: 15px;
+}
+
+
+/* @media screen and (max-width: 600px) {
+    .footer {
+        left: 0;
+        bottom: 0;
+        padding: 20px;
+        width: 100%;
+        background-image: linear-gradient(to right, #b9b9ee 0%, #7ab6e0 51%, #b9b9ee 100%);
+        color: white;
+        text-align: center;
+    }
+} */
